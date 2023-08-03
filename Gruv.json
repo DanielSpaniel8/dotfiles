@@ -1,0 +1,57 @@
+{
+    "manifest": {
+        "author": "DanielSpaniel#3982",
+        "name": "Gruvbox",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -6777062
+    },
+    "colors": {
+        "abc_search_url_text": -265785,
+        "abc_search_url_text_normal": -265785,
+        "uikit_text_color_selector": -265785,
+        "primary_text_default_material_dark": -265785,
+        "white": -4346221,
+        "primary_dark_200": -1320014,
+        "primary_dark_300": -2767711,
+        "primary_dark_600": -14145496,
+        "primary_dark_630": -14145496,
+        "primary_dark_400": -2767711,
+        "primary_dark_800": -11515579,
+        "white_500": -4346221,
+        "uikit_btn_bg_color_selector_green": -7421828,
+        "uikit_btn_bg_color_selector_red": -3398627,
+        "uikit_settings_item_text_color_dark": -1320014,
+        "uikit_settings_item_text_color_light": -11515579,
+        "focus_primary_600": -4346221,
+        "primary_dark_360": -5727868,
+        "primary_dark_700": -14868447,
+        "primary_300": -14868447,
+        "input_placeholder_text_dark": -5727868
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -11515579,
+        "drawable_overlay_channel_pressed_dark": -10068908,
+        "drawable_overlay_channels_selected_dark": -11515579,
+        "drawable_overlay_channels_active_dark": -11515579,
+        "drawable_overlay_channels_dark": -11515579,
+        "ic_thread": -8149608,
+        "ic_pin_24dp": -2767711,
+        "ic_channel_text": -2767711,
+        "ic_channel_topic_ellipsis_dark": -2767711,
+        "ic_thread_white_24dp": -8149608,
+        "ic_notifications_settings_white_a60_24dp": -7421828,
+        "ic_visibility_white_24dp": -344785,
+        "ic_sidebar_notifications_off_dark_24dp": -9921174,
+        "ic_sidebar_notifications_on_dark_24dp": -7421828,
+        "ic_sidebar_pins_on_dark_24dp": -2767711,
+        "ic_sidebar_pins_off_dark_24dp": -2767711,
+        "ic_profile_24dp": -2767711,
+        "ic_guild_invite_24dp": -2767711,
+        "ic_add_person_16dp": -2767711
+    },
+    "raws": {}
+}
