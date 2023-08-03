@@ -2,7 +2,8 @@
     "manifest": {
         "author": "DanielSpaniel#3982",
         "name": "Gruvbox",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/github.com\/DanielSpaniel8\/dotfiles\/blob\/main\/Gruv.json"
     },
     "background": {},
     "fonts": {},
